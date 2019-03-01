@@ -8,5 +8,6 @@ Of een opsomming:
 * één
 * twee
 * drie
+* vier
 
 een link: [link](http://www.fluvius.be)
