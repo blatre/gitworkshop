@@ -10,12 +10,12 @@ Of een opsomming:
 * drie
 * vier
 
-een link: [link](http://www.fluvius.be)
+een link: [Fluvius website](http://www.fluvius.be)
 
 Dit is een extra aanvulling
 en nog een.
 
-en nog een link van master: [link] (http://www.google.be)  
+  en nog een link van master: [Google](http://www.google.be)  
 
 
 
