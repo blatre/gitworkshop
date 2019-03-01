@@ -15,8 +15,9 @@ een link: [Fluvius website](http://www.fluvius.be)
 Dit is een extra aanvulling
 en nog een.
 
-  en nog een link van master: [Google](http://www.google.be)  
+en nog een link van master: [Google](http://www.google.be)  
 
+en nog een extra aanpassing
 
 
 
