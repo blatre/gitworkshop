@@ -11,3 +11,4 @@ Of een opsomming:
 * vier
 
 een link: [link](http://www.fluvius.be)
+en nog een link van master: [link] (http://www.google.be)  
