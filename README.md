@@ -1,9 +1,12 @@
 # Start
 Let's start at the very beginning, a very good place to start.
 
-We zullen de stijl veranderen naar *vet* of **schuin**
 
-Of een opsomming
+We zullen de stijl veranderen naar **vet** of *schuin*
+
+Of een opsomming:
 * één
 * twee
 * drie
+
+een link: [link](http://www.fluvius.be)
